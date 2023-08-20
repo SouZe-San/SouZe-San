@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Soumyajit Mondal and <br/> I'm a developer who loves to make creative designs or wired things.</p>
+<p align="left">This is Soumyajit Mondal. <br/> I'm a developer who loves to make creative designs or wired things.</p>
 
 ###
 
@@ -12,11 +12,11 @@
 
 <br clear="both">
 
-<img align="right" height="160" src="https://avatars.githubusercontent.com/u/103335953?v=4"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/103335953?v=4"  />
 
 ###
 
-<p align="left">✨ Full-stack && Fontend web development...<br>📚 I'm currently learning ...<br>🎯 Goals: Full stack web developer ||  ML engineer<br>⌨️ Have a Little bit fond of solving Code challenges<br>>🧰 Urges to try new things</p>
+<p align="left">✨ Full-stack && Fontend web development...<br>📚 I'm currently learning ...<br>🎯 Goals: Full stack web developer ||  ML engineer<br>⌨️ Have a Little bit fond of solving Code challenges<br>🧰 Urges to try new things</p>
 
 ###
 
