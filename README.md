@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="[https://avatars.githubusercontent.com/u/103335953?v=4](https://avatars.githubusercontent.com/u/103335953?s=400&u=66caa869f5cfbdbfc881d2f337247504342ccdad&v=4)"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/103335953?v=4"  />
 
 ###
 
